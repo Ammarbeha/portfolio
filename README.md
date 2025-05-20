@@ -17,13 +17,6 @@ Zdravo! Ja sam Ammar – mladi, motivisani frontend developer sa strašću za we
 - Mini JavaScript aplikacijama (kalkulator, to-do lista)
 - Webflow projektima
 
-## 📂 Projekti (neki od):
-- [🌤️ Weather App](https://github.com/Ammarbeha/weather-app)
-- [📄 Portfolio Site](https://github.com/Ammarbeha/portfolio-site)
-- [📝 Form Validator](https://github.com/Ammarbeha/form-validator)
-
-> Više uskoro – aktivno razvijam nove ideje!
-
 ## 📫 Kontakt:
 - 📧 behmenammar59@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ammar-behmen-bbb160231)
