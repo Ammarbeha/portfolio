@@ -17,11 +17,11 @@ Ja sam Ammar – mladi, motivisani frontend developer sa strašću za web dizajn
 - Mini JavaScript aplikacijama (kalkulator, to-do lista)
 - Webflow projektima
 
-## 📫 Kontakt:
-- 📧 behmenammar59@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ammar-behmen-bbb160231)
-- 🌐 [GitHub](https://github.com/Ammarbeha)
+##  Kontakt:
+-  behmenammar59@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/ammar-behmen-bbb160231)
+-  [GitHub](https://github.com/Ammarbeha)
 
 ---
 
-✨ Hvala što si svratio/la! Slobodno fork-uj neki moj projekat ili mi piši ako želiš sarađivati 👇
+
