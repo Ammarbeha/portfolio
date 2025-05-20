@@ -1,18 +1,18 @@
 
-# 👋 Ammar Behmen
+#  Ammar Behmen
 
-🎯 Junior Frontend Developer | 🌐 HTML, CSS, JavaScript | 🎨 Webflow & Figma Enthusiast
+ Junior Frontend Developer |  HTML, CSS, JavaScript 
 
-Zdravo! Ja sam Ammar – mladi, motivisani frontend developer sa strašću za web dizajn i tehnologije. Završio sam full-stack bootcamp, aktivno radim na ličnim projektima i uvijek težim učenju kroz praksu. Fokusiran sam na moderni, responzivni dizajn i funkcionalne korisničke interfejse.
+Ja sam Ammar – mladi, motivisani frontend developer sa strašću za web dizajn i tehnologije. Završio sam full-stack bootcamp, aktivno radim na ličnim projektima i uvijek težim učenju kroz praksu. Fokusiran sam na moderni, responzivni dizajn i funkcionalne korisničke interfejse.
 
-## 🛠 Tehnologije koje koristim:
+##  Tehnologije koje koristim:
 - HTML5 / CSS3 / JavaScript
 - Figma (UI/UX osnove)
 - Webflow (trenutno u učenju)
 - MySQL (osnove)
 - Responsive Design & CSS Flexbox/Grid
 
-## 🚧 Trenutno radim na:
+##  Trenutno radim na:
 - Portfolio web stranici
 - Mini JavaScript aplikacijama (kalkulator, to-do lista)
 - Webflow projektima
